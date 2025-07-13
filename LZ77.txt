@@ -1,0 +1,10 @@
+LZ77
+
+What does it do?
+Replaces repeated sequences of characters with references (offset and length).
+
+Level of operation
+Sequences of characters
+
+Deduplication?
+Partially (works on repeated sequences, not on fixed-size blocks)
